@@ -1,0 +1,17 @@
+Quinta-feira,20 de Janeiro de 2022
+Das 14:05:00 as  h+|-
+Introdução ao Curso ou Mini Curso;
+ $ O que é Bootstrap:
+  # Explicar  sobre esse Mini_Curso;
+  # biblioteca para TI;
+  # Compomentes;
+  # Layout já criada;
+  # Agilizando para parte do Front-End;
+ # Padrão de Grid;
+ # Framework mais utilizado desta categoria;
+ Primeiro Projeto Com Bootstrap
+ * instalação por CDN;
+ * Carregando de maneira mais rápida;
+ * Prós e Contras em Usar o CDN;
+ * Vamos a instalação;
+ 
